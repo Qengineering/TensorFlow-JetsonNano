@@ -1,3 +1,9 @@
+# TensorFlow 2.4.1 for the Jetson Nano
+Python and C++ API library installation file for the Jetson Nano.<br/>
+Support of **CUDA 10.2**, **cuDNN 8.0** and **TensorRT**. <br/>
+For the installation guide see [Install TensorFlow 2.4.1](https://qengineering.eu/install-tensorflow-2.4.0-on-jetson-nano.html) <br/><br/>
+Download Python wheel **tensorflow-2.4.1-cp36-cp36m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1DLk4Tjs8Mjg919NkDnYg02zEnbbCAzOz/view?usp=sharing) <br/><br/>
+Download C++ API **libtensorflow-2.4.1-JetsonNano.tar.gz** from [Gdrive](https://drive.google.com/file/d/1zJ_EF2aFkr8JU8JgTLfKMxC6KxE3DRD4/view?usp=sharing) <br/><br/>
 # TensorFlow 2.4.0 for the Jetson Nano
 Python and C++ API library installation file for the Jetson Nano.<br/>
 Support of **CUDA 10.2**, **cuDNN 8.0** and **TensorRT**. <br/>
