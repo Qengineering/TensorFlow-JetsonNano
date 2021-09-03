@@ -1,3 +1,5 @@
+# TensorFlow 2.5 and 2.6 for the Jetson Nano
+TensorFlow 2.5 and 2.6 are dependent on CUDA 11.0 and cuDNN version 8.0.4, both not yet available for the Jetson Nano. A workaround is cumbersome and probably not very reliable. Better to wait for the new announced JetPack to be released with the required versions of CUDA and cuDNN. Continue to use TensorFlow 2.4.1 for now.
 # TensorFlow 2.4.1 for the Jetson Nano
 Python and C++ API library installation file for the Jetson Nano.<br/>
 Support of **CUDA 10.2**, **cuDNN 8.0** and **TensorRT**. <br/>
