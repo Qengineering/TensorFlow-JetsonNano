@@ -21,3 +21,7 @@ Download C++ API **libtensorflow-2.3.1-JetsonNano.tar.gz** from [Gdrive](https:/
 
 Note, this is the full TensorFlow package, not the TensorFlow Lite version for small devices and mobile phones.<br/>
 For this guide of TensorFlow Lite see [Install TensorFlow Lite](https://qengineering.eu/install-tensorflow-2-lite-on-jetson-nano.html) <br/>
+
+------------
+
+[![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) 
