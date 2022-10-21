@@ -6,9 +6,9 @@ Find your TensorFlow version in the table below. Follow the instructions in the 
 -----------------
 
 ## Roadmap.
-| Operating system  | TF 2.9.1 | TF 2.8.0 | TF 2.7.0 | TF 2.6.0 | TF 2.5.1 | TF 2.5.0 | TF 2.4.1 | TF 2.4.0 | TF 2.3.1 | TF 2.3.0 | TF 2.2.0 | TF 2.1.0 | TF 1.15.2 
-| ----------------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | 
-| Jetson Nano JetPack 4.6 | | | | | | | [Wheel](https://drive.google.com/file/d/1DLk4Tjs8Mjg919NkDnYg02zEnbbCAzOz/view?usp=sharing)<br/>[C API](https://drive.google.com/file/d/1zJ_EF2aFkr8JU8JgTLfKMxC6KxE3DRD4/view?usp=sharing)<br/>[Guide](https://qengineering.eu/install-tensorflow-2.4.0-on-jetson-nano.html) | [Wheel](https://drive.google.com/file/d/1W-p9oIo37xT2rQzd6KPuJq1QOBRL7-wp/view?usp=sharing)<br/>[C API](https://drive.google.com/file/d/1ZDdkMhVu-hOt_bflVw373u1HVJQqMm51/view?usp=sharing)<br/>[Guide](https://qengineering.eu/install-tensorflow-2.4.0-on-jetson-nano.html) | [Wheel](https://drive.google.com/file/d/1oeSnkgJpwyudtTx-f5CE84B7e-Vkv3yK/view?usp=sharing)<br/>[C API](https://drive.google.com/file/d/1rlviefeu4w2amLsybZIOpcZP140WioDS/view?usp=sharing)<br/>[Guide](https://qengineering.eu/install-tensorflow-2.3.1-on-jetson-nano.html) |  |  |  |  |
+| Operating system  | TF 2.5.1 | TF 2.5.0 | TF 2.4.1 | TF 2.4.0 | TF 2.3.1 | TF 2.3.0 | TF 2.2.0 |
+| ----------------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
+| Jetson Nano JetPack 4.6 | | | [Wheel](https://drive.google.com/file/d/1DLk4Tjs8Mjg919NkDnYg02zEnbbCAzOz/view?usp=sharing)<br/>[C API](https://drive.google.com/file/d/1zJ_EF2aFkr8JU8JgTLfKMxC6KxE3DRD4/view?usp=sharing)<br/>[Guide](https://qengineering.eu/install-tensorflow-2.4.0-on-jetson-nano.html) | [Wheel](https://drive.google.com/file/d/1W-p9oIo37xT2rQzd6KPuJq1QOBRL7-wp/view?usp=sharing)<br/>[C API](https://drive.google.com/file/d/1ZDdkMhVu-hOt_bflVw373u1HVJQqMm51/view?usp=sharing)<br/>[Guide](https://qengineering.eu/install-tensorflow-2.4.0-on-jetson-nano.html) | [Wheel](https://drive.google.com/file/d/1oeSnkgJpwyudtTx-f5CE84B7e-Vkv3yK/view?usp=sharing)<br/>[C API](https://drive.google.com/file/d/1rlviefeu4w2amLsybZIOpcZP140WioDS/view?usp=sharing)<br/>[Guide](https://qengineering.eu/install-tensorflow-2.3.1-on-jetson-nano.html) |  |  | 
 
 ----------------------
 
