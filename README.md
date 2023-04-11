@@ -16,7 +16,9 @@ Find your TensorFlow version in the table below. Follow the instructions in the 
 ![output image](https://qengineering.eu/images/SDcard16GB_tiny.jpg) Find TensorFlow with other frameworks on our Jetson Nano [Ubuntu 20.04](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image)<br/><br/>
 
 ### TensorFlow 2.5
-TensorFlow 2.5 and higher depend all on CUDA 11.0 and cuDNN version 8.0.4, both not yet available for the Jetson Nano. A workaround is cumbersome and probably not very reliable. Better to wait for the new announced JetPack to be released with the required versions of CUDA and cuDNN. If possible, continue to use TensorFlow 2.4.1 for now.<br/>
+TensorFlow 2.5 and higher depend all on **CUDA 11.0**. The Jetson Nano has CUDA 10.2.<br>
+Due to low-level GPU incompatibility, installing CUDA 11 on your Nano is impossible.<br>
+Better to wait for the new announced JetPack to be released with the required versions of CUDA and cuDNN. If possible, continue to use TensorFlow 2.4.1 for now.<br/>
 
 ----------------------
 
